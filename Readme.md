@@ -66,8 +66,8 @@ The application will automatically launch in your default browser at `http://loc
 
 ## Snapshots
 ![image](https://github.com/user-attachments/assets/7865d078-5ee4-4ebe-af4a-2f2acb6f56f7)
-![image](https://github.com/user-attachments/assets/35b5cb5e-1b5a-49e8-97e2-38971ee9d1d3)
-![image](https://github.com/user-attachments/assets/f011aa8b-6752-4330-b128-9bef909bdc04)
+![image](https://github.com/user-attachments/assets/4e54ac7b-2f98-432a-a332-813a6ed17c70)
+![image](https://github.com/user-attachments/assets/0ca161bb-d406-4049-98be-ee0a40ac12c9)
 
 
 ## Project Structure
