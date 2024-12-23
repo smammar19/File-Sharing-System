@@ -64,6 +64,12 @@ The application will automatically launch in your default browser at `http://loc
 3. Enter the same Room ID on both sender and receiver interfaces
 4. Start sharing files and messages within your private room
 
+## Snapshots
+![image](https://github.com/user-attachments/assets/7865d078-5ee4-4ebe-af4a-2f2acb6f56f7)
+![image](https://github.com/user-attachments/assets/35b5cb5e-1b5a-49e8-97e2-38971ee9d1d3)
+![image](https://github.com/user-attachments/assets/f011aa8b-6752-4330-b128-9bef909bdc04)
+
+
 ## Project Structure
 ```
 project-root/
